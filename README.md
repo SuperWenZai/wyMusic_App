@@ -1,12 +1,10 @@
-# wyMusic_App
+# vue
 
-使用vue框架搭建的一个网易云音乐网页版，还没对接网易云官方提供的接口，后续逐渐完善！！！
+在高铁上没事做，在路上弄了个网页版的踩黑白块，来玩一玩；嘻嘻嘻~
 
 # 技术栈
 
-vue + vueRouter + axios + webpack
-
-# 示例（image）
+vue + css3 + h5
 
 # Build Setup
 
