@@ -29,6 +29,8 @@ vue + vueRouter + axios + webpack
 ``` bash
 # install dependencies
 npm install
+或
+cnpm install
 
 # serve with hot reload at localhost:8080
 npm run dev
