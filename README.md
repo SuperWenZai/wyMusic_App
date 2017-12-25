@@ -8,19 +8,19 @@ vue + vueRouter + axios + webpack
 
 # 示例（image）
 
-## 推荐音乐
+### 推荐音乐
 
 ![image](https://github.com/SupermanWenZai/wyMusic_App/blob/master/static/images/推荐音乐.png)
 
-## 专辑详细
+### 专辑详细
 
 ![image](https://github.com/SupermanWenZai/wyMusic_App/blob/master/static/images/专辑详细.png)
 
-## 搜索
+### 搜索
 
 ![image](https://github.com/SupermanWenZai/wyMusic_App/blob/master/static/images/搜索.png)
 
-## 热歌榜
+### 热歌榜
 
 ![image](https://github.com/SupermanWenZai/wyMusic_App/blob/master/static/images/热歌榜.png)
 
